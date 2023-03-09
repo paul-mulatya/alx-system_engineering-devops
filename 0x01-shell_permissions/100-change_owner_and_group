@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R  vincent:group  echo $(pwd)
+sudo chown -R  vincent:group  /root/alx-system_engineering-devops/0x01-shell_permissions/
