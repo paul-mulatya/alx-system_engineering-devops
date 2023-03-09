@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr-xr-x 2 root root 167 Mar  8 14:52 . drwxr-xr-x 4 root root  60 Mar  8 13:45 .. -rwxr--r-- 1 root root  64 Mar  8 14:15 0-current_working_directory -rwxr--r-- 1 root root  62 Mar  8 14:22 1-listit -rwxr--r-- 1 root root 287 Mar  8 14:47 4-listmorefiles -rwxr--r-- 1 root root   0 Mar  8 14:52 5-listfilesdigitonly -rw-r--r-- 1 root root  65 Mar  8 13:57 README.md
+ls -la -c
