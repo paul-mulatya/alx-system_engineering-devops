@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | echo $(pwd) | echo $HOME | /boot
+ls -la . .. /boot
